@@ -105,6 +105,7 @@ Buildertrend has no official MCP server. Cotlet.dev is a hosted MCP server that 
 
 - [Buildertrend on Cotlet.dev](https://cotlet.dev/integrations/buildertrend-api-mcp-server?utm_source=github&utm_medium=readme&utm_campaign=buildertrend&utm_content=find)
 - [PyPI package buildertrend-mcp](https://pypi.org/project/buildertrend-mcp/)
+- [Odel](https://odel.app/modules/cotlet/buildertrend)
 - [Step-by-step guide (PDF) on Internet Archive](https://archive.org/details/cotlet-connect-buildertrend-to-ai-agents-guide)
 
 ## Also works with
